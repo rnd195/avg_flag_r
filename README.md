@@ -17,5 +17,3 @@ There are 76+1 (the capital) district towns in the Czech Republic. However, some
 
 #### Additional information
 This project was inspired by [u/Udzu's post on reddit](https://www.reddit.com/r/dataisbeautiful/comments/85l10h/average_flags_of_the_world_means_modes_and/) and [baptiste's answer](https://stackoverflow.com/questions/11306075/how-to-create-rgb-image-from-three-matrices-in-r) on the stackoverflow forum.
-
-The "Releases" page of this project unfortunately does not seem to be working properly -- possibly due to the fact that this repository has been imported from another git hosting platform.
