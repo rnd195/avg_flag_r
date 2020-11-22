@@ -18,7 +18,7 @@ all_flags_summed <- Reduce("+", all_flags)
 
 avg <- all_flags_summed / length(files)
 imgmatrix <- matrix(avg, nrow = 200)
-dim(imgmatrix)
+# dim(imgmatrix) # check the dimensions
 
 # remap the matrix
 r <- imgmatrix[1:200, 1:300]
