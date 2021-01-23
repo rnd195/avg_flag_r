@@ -44,6 +44,7 @@ for (hgt in 1:dim(median_arr)[1]){
 imgmedian <- matrix(median_arr, nrow = 200)
 
 
+#### Creating images ####
 
 # Remap the matrix
 r_avg <- imgavg[1:200, 1:300]
