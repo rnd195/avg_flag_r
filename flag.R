@@ -26,7 +26,7 @@ imgavg <- matrix(avg, nrow = 200)
 # Prepare an empty vector
 median_arr <- array(1, dim = dim(all_flags[[1]]))
 
-# Beware that this codeblock takes a while (1-2 mins)
+# Beware that this codeblock takes a while (1-2 mins with 70+ images)
 # TODO optimize
 for (hgt in 1:dim(median_arr)[1]){
   for (wth in 1:dim(median_arr)[2]){
