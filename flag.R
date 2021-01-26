@@ -4,7 +4,7 @@ library(dplyr)
 library(data.table)
 library(rstudioapi)
 
-#### Regions ####
+#### Loading data ####
 # set working directory to the file path
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 setwd("districts")
